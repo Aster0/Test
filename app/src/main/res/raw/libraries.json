@@ -1,0 +1,212 @@
+[
+    {
+        "region": "Central",
+        "libraries": [
+            {
+                "id": 1,
+                "name": "Ang Mo Kio Public Library",
+                "address": "4300 Ang Mo Kio Avenue 6",
+                "postalcode": "569842",
+                "nearestMRT": "Ang Mo Kio",
+                "coords": {
+                    "lat": 1.374784,
+                    "lng": 103.845581
+                },
+                "image": "ampl"
+            },
+            {
+                "id": 2,
+                "name": "Bishan Public Library",
+                "address": "5 Bishan Place  #01-01",
+                "postalcode": "579841",
+                "nearestMRT": "Bishan",
+                "coords": {
+                    "lat": 1.349844,
+                    "lng": 103.84884
+                },
+                "image": "bipl"
+            },
+            {
+                "id": 7,
+                "name": "library@chinatown",
+                "address": "133 New Bridge Road #04-12 Chinatown Point",
+                "postalcode": "059413",
+                "nearestMRT": "Chinatown",
+                "coords": {
+                    "lat": 1.285255,
+                    "lng": 103.844943
+                },
+                "image": "cnpl"
+            },
+            {
+                "id": 8,
+                "name": "library@esplanade",
+                "address": "8 Raffles Avenue #03-01",
+                "postalcode": "039802",
+                "nearestMRT": "City Hall / Esplanade",
+                "coords": {
+                    "lat": 1.289406,
+                    "lng": 103.85577
+                },
+                "image": "eppl"
+            },
+            {
+                "id": 14,
+                "name": "Toa Payoh Public Library",
+                "address": "6 Toa Payoh Central",
+                "postalcode": "319191",
+                "nearestMRT": "Toa Payoh",
+                "coords": {
+                    "lat": 1.333618,
+                    "lng": 103.850969
+                },
+                "image": "tppl"
+            }
+        ]
+    },
+    {
+        "region": "West",
+        "libraries": [
+            {
+                "id": 3,
+                "name": "Bukit Panjang Public Library",
+                "address": "1 Jelebu Road #04-04 & 16/17 Bukit Panjang Plaza",
+                "postalcode": "677743",
+                "nearestMRT": "Bukit Panjang",
+                "coords": {
+                    "lat": 1.37993,
+                    "lng": 103.76435
+                },
+                "image": "bppl"
+            },
+            {
+                "id": 5,
+                "name": "Clementi Public Library",
+                "address": "3155 Commonwealth Avenue West #05-13/14/15 The Clementi Mall",
+                "postalcode": "129588",
+                "nearestMRT": "Clementi",
+                "coords": {
+                    "lat": 1.315056,
+                    "lng": 103.764306
+                },
+                "image": "cmpl"
+            },
+            {
+                "id": 6,
+                "name": "Jurong Regional Library",
+                "address": "21 Jurong East Central 1",
+                "postalcode": "609732",
+                "nearestMRT": "Jurong East",
+                "coords": {
+                    "lat": 1.332888,
+                    "lng": 103.739243
+                },
+                "image": "jrl"
+            }
+        ]
+    },
+    {
+        "region": "North-East",
+        "libraries": [
+            {
+                "id": 4,
+                "name": "Cheng San Public Library",
+                "address": "90 Hougang Avenue 10 #03-11 Hougang Mall",
+                "postalcode": "538766",
+                "nearestMRT": "Hougang",
+                "coords": {
+                    "lat": 1.372566,
+                    "lng": 103.893775
+                },
+                "image": "cspl"
+            },
+            {
+                "id": 13,
+                "name": "Serangoon Public Library",
+                "address": "23 Serangoon Central #04-82/83 NEX",
+                "postalcode": "556083",
+                "nearestMRT": "Serangoon",
+                "coords": {
+                    "lat": 1.350639,
+                    "lng": 103.871813
+                },
+                "image": "srpl"
+            }
+        ]
+    },
+    {
+        "region": "South",
+        "libraries": [
+            {
+                "id": 9,
+                "name": "library@harbourfront",
+                "address": "1 Harbourfront Walk #03-05 (Lobby F) VivoCity",
+                "postalcode": "098585",
+                "nearestMRT": "HarbourFront",
+                "coords": {
+                    "lat": 1.264305,
+                    "lng": 103.822309
+                },
+                "image": "habourfront"
+            }
+        ]
+    },
+    {
+        "region": "East",
+        "libraries": [
+            {
+                "id": 10,
+                "name": "Marine Parade Public Library",
+                "address": "278 Marine Parade Road #01-02 Marine Parade Community Building",
+                "postalcode": "449282",
+                "nearestMRT": "Eunos",
+                "coords": {
+                    "lat": 1.304664,
+                    "lng": 103.909581
+                },
+                "image": "mppl"
+            },
+            {
+                "id": 11,
+                "name": "Pasir Ris Public Library",
+                "address": "1 Pasir Ris Central St 3 #04-01/06 White Sands",
+                "postalcode": "518457",
+                "nearestMRT": "Pasir Ris",
+                "coords": {
+                    "lat": 1.372351,
+                    "lng": 103.94944
+                },
+                "image": "prpl"
+            }
+        ]
+    },
+    {
+        "region": "North",
+        "libraries": [
+            {
+                "id": 12,
+                "name": "Sembawang Public Library",
+                "address": "30 Sembawang Drive #05-01 Sun Plaza",
+                "postalcode": "757713",
+                "nearestMRT": "Sembawang",
+                "coords": {
+                    "lat": 1.44819,
+                    "lng": 103.819499
+                },
+                "image": "sbpl.jpg"
+            },
+            {
+                "id": 15,
+                "name": "Yishun Public Library",
+                "address": "930 Yishun Ave 2 #04-01 North Wing, Northpoint City",
+                "postalcode": "769098",
+                "nearestMRT": "Yishun",
+                "coords": {
+                    "lat": 1.429709,
+                    "lng": 103.835803
+                },
+                "image": "yipl"
+            }
+        ]
+    }
+]
